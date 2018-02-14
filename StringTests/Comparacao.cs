@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace StringTests
 {
+    /** */
     public class Comparacao
     {
         private readonly string[] _lista01;
